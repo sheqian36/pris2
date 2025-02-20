@@ -21,9 +21,7 @@ pip install ./pris2
 ```
 ## 权重加载
 
-把预训练权重 largedecoder.pth 放到 ./pris2 目录
-
-权重下载：[谷歌网盘](https://drive.google.com/file/d/1xA-4hzY-zBxtxywVw_9y2u17ExenRVju/view)
+把预训练权重 largedecoder.pth 放到当前目录。权重下载：[谷歌网盘](https://drive.google.com/file/d/1xA-4hzY-zBxtxywVw_9y2u17ExenRVju/view)
 
 ## 启动说明
 1. 导入并启动测试：
